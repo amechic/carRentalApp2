@@ -30,7 +30,7 @@ namespace carRentalApp2
         {
             var addRentalRecord = new addRentalRecord();
             addRentalRecord.MdiParent = this;
-            addRentalRecord.Show();
+            addRentalRecord.Show(); 
         }
     }
 }
